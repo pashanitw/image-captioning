@@ -1,0 +1,6 @@
+.idea
+__MACOSX
+*.txt
+__pycache__
+.venv
+Flicker8k_Dataset
